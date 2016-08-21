@@ -6,9 +6,13 @@ color:
   saturation: 0.9197087218053639
   rhythmicContrast: 0.5919869921635836
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
 name: Margarita
+navigation:
+  - name: 'Bistro Proti Proudu, Prague, Czech Republic '
+    id: dab62c5f-3889-40d2-9ea7-23c4ade1e7cf
+    type: content
